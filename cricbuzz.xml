@@ -1,0 +1,110 @@
+	<mchdata NMchs="24">
+		<links fUrlBase="http://synd.cricbuzz.com/j2me/1.0/flags/team_" />
+	
+	
+		<match id="11" type="ODI" srs="Sri Lanka Women tour of West Indies, 2017" mchDesc="WIW vs SLW" mnum="2nd ODI (ICC Championship match)"  vcity="Tarouba, Trinidad" vcountry="Windies" grnd="Brian Lara Stadium" inngCnt="1" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/2017_WIW_SLW/WIW_SLW_OCT13/" >
+	 <state mchState="inprogress" status="Match reduced to 47 overs per side due to rain" TW="WIW" decisn="Fielding" addnStatus="" splStatus="Match reduced to 47 overs per side due to rain">
+	</state>
+	<Tm id="257" Name="WIW" sName="WIW"  flag='0'/>
+	<Tm id="258" Name="SLW" sName="SLW"  flag='0'/>
+	
+	
+	<Tme Dt="Oct 13 2017" stTme="18:00" enddt ="Oct 13 2017" ></Tme>		
+
+	<mscr>
+		<inngsdetail noofovers="50" rrr="0" crr="5" cprtshp="10(12)"/>
+	<btTm id="258" sName="SLW">
+			<Inngs desc="Inns" r="10"  Decl="0" FollowOn="0" ovrs="2" wkts="0"/>
+	</btTm>
+	<blgTm id="257" sName="WIW">
+	</blgTm>
+
+	</mscr>
+	</match>
+	
+	
+	
+		<match id="7" type="T20" srs="Australia tour of India, 2017" mchDesc="IND vs AUS" mnum="3rd T20I"  vcity="Hyderabad" vcountry="India" grnd="Rajiv Gandhi International Stadium" inngCnt="0" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/2017_IND_AUS/IND_AUS_OCT13/" >
+	 <state mchState="abandon" status="Match abandoned without a ball being bowled due to wet outfield (no toss)" TW="" decisn="" addnStatus="" splStatus="">
+	</state>
+	<Tm id="2" Name="Ind" sName="IND"  flag='1'/>
+	<Tm id="4" Name="Aus" sName="AUS"  flag='1'/>
+	
+	
+	<Tme Dt="Oct 13 2017" stTme="13:30" enddt ="Oct 13 2017" ></Tme>		
+
+	</match>
+	
+	
+	
+		<match id="6" type="ODI" srs="Pakistan v Sri Lanka in UAE, 2017" mchDesc="PAK vs SL" mnum="1st ODI"  vcity="Dubai" vcountry="United Arab Emirates" grnd="Dubai International Cricket Stadium" inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/2017_PAK_SL/PAK_SL_OCT13/" >
+	 <state mchState="complete" status="Pak won by 83 runs" TW="SL" decisn="Fielding" addnStatus="" splStatus="">
+	</state>
+	<Tm id="3" Name="Pak" sName="PAK"  flag='1'/>
+	<Tm id="5" Name="SL" sName="SL"  flag='1'/>
+	
+	
+	<Tme Dt="Oct 13 2017" stTme="11:00" enddt ="Oct 13 2017" ></Tme>		
+
+	<mscr>
+		<inngsdetail noofovers="50" rrr="0" crr="4.18" cprtshp="9(13)"/>
+	<btTm id="5" sName="SL">
+			<Inngs desc="Inns" r="209"  Decl="0" FollowOn="0" ovrs="50" wkts="8"/>
+	</btTm>
+	<blgTm id="3" sName="PAK">
+			<Inngs desc="Inns" r="292"  Decl="0" FollowOn="0" ovrs="50" wkts="6"/>
+	</blgTm>
+
+	</mscr>
+	</match>
+	
+	
+	
+		<match id="10" type="ODI" srs="ICC World Cricket League Championship, 2015-17" mchDesc="HK vs NEP" mnum="47th Match"  vcity="Hong Kong" vcountry="Hong Kong" grnd="Mission Road Ground" inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2015/2015_WCLC/HK_NEP_OCT13/" >
+	 <state mchState="complete" status="HK won by 83 runs" TW="NEP" decisn="Fielding" addnStatus="" splStatus="">
+	</state>
+	<Tm id="8" Name="HK" sName="HK"  flag='0'/>
+	<Tm id="72" Name="NEP" sName="NEP"  flag='0'/>
+	
+	
+	<Tme Dt="Oct 13 2017" stTme="01:30" enddt ="Oct 13 2017" ></Tme>		
+
+	<mscr>
+		<inngsdetail noofovers="50" rrr="0" crr="3.19" cprtshp=""/>
+	<btTm id="72" sName="NEP">
+			<Inngs desc="Inns" r="111"  Decl="0" FollowOn="0" ovrs="34.5" wkts="10"/>
+	</btTm>
+	<blgTm id="8" sName="HK">
+			<Inngs desc="Inns" r="194"  Decl="0" FollowOn="0" ovrs="50" wkts="10"/>
+	</blgTm>
+
+	</mscr>
+	</match>
+	
+	
+	
+	<match id='18964' type="ODI" srs="Pakistan v Sri Lanka in UAE, 2017" mchDesc="PAK vs SL" mnum="1st ODI"  inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/2017_PAK_SL/PAK_SL_OCT13/" >
+	
+		<state mchState="Result" status="Pak won by 83 runs">	</state>
+			<manofthematch NoOfPlayers="1">
+				<mom Name="Shoaib Malik"/>
+			</manofthematch>
+		<Tm id="3" Name="Pak" sName="PAK"  flag='1'/>
+		<Tm id="5" Name="SL" sName="SL"  flag='1'/>
+		
+		<Tme Dt="Oct 13 2017" stTme="11:00" enddt ="Oct 13 2017"></Tme>
+
+	</match>
+	
+	
+	<match id='18863' type="T20" srs="Australia tour of India, 2017" mchDesc="IND vs AUS" mnum="3rd T20I"  inngCnt="0" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/2017_IND_AUS/IND_AUS_OCT13/" >
+	
+		<state mchState="Result" status="Match abandoned without a ball being bowled due to wet outfield (no toss)">	</state>
+		<Tm id="2" Name="Ind" sName="IND"  flag='1'/>
+		<Tm id="4" Name="Aus" sName="AUS"  flag='1'/>
+		
+		<Tme Dt="Oct 13 2017" stTme="13:30" enddt ="Oct 13 2017"></Tme>
+
+	</match>
+	</mchdata>
+
